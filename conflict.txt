@@ -1,3 +1,6 @@
 Checking for conflict 1 remote
 
 changes 2 local
+
+Changes at remote
+
